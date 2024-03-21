@@ -1,0 +1,1049 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StudentPerformanceApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StudentPerformanceApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap-multiselect\\LICENSE.md",
+      "PackagePath": "staticwebassets\\bootstrap-multiselect\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap-multiselect\\README.md",
+      "PackagePath": "staticwebassets\\bootstrap-multiselect\\README.md"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap-multiselect\\dist\\css\\bootstrap-multiselect.css",
+      "PackagePath": "staticwebassets\\bootstrap-multiselect\\dist\\css\\bootstrap-multiselect.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap-multiselect\\dist\\css\\bootstrap-multiselect.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-multiselect\\dist\\css\\bootstrap-multiselect.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap-multiselect\\dist\\js\\bootstrap-multiselect.js",
+      "PackagePath": "staticwebassets\\bootstrap-multiselect\\dist\\js\\bootstrap-multiselect.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap-multiselect\\dist\\js\\bootstrap-multiselect.min.js",
+      "PackagePath": "staticwebassets\\bootstrap-multiselect\\dist\\js\\bootstrap-multiselect.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap-multiselect\\dist\\less\\bootstrap-multiselect.less",
+      "PackagePath": "staticwebassets\\bootstrap-multiselect\\dist\\less\\bootstrap-multiselect.less"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap-multiselect\\package.json",
+      "PackagePath": "staticwebassets\\bootstrap-multiselect\\package.json"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\bootstrap"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\bootstrap\\README.md"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\alert.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\alert.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\button.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\button.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\carousel.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\carousel.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\collapse.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\collapse.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dropdown.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\index.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\index.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\index.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\index.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\modal.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\modal.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\popover.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\popover.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\scrollspy.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\scrollspy.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\tab.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\tab.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\toast.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\toast.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\tooltip.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\tooltip.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\util.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\util.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\dist\\util.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\alert.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\alert.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\button.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\button.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\carousel.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\carousel.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\collapse.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\collapse.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\dropdown.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\modal.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\modal.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\popover.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\popover.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\scrollspy.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\scrollspy.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\tab.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\tab.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\toast.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\toast.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\tools\\sanitizer.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\tools\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\tools\\sanitizer.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\tools\\sanitizer.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\tooltip.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\tooltip.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\util.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\util.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\js\\src\\util.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\src\\util.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\bootstrap\\package.json"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\css\\mlmodel.css",
+      "PackagePath": "staticwebassets\\css\\mlmodel.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\css\\students.css",
+      "PackagePath": "staticwebassets\\css\\students.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap-multiselect\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap-multiselect\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect\\README.md"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap-multiselect\\dist\\css\\bootstrap-multiselect.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect\\dist\\css\\bootstrap-multiselect.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap-multiselect\\dist\\css\\bootstrap-multiselect.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect\\dist\\css\\bootstrap-multiselect.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap-multiselect\\dist\\js\\bootstrap-multiselect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect\\dist\\js\\bootstrap-multiselect.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap-multiselect\\dist\\js\\bootstrap-multiselect.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect\\dist\\js\\bootstrap-multiselect.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap-multiselect\\dist\\less\\bootstrap-multiselect.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect\\dist\\less\\bootstrap-multiselect.less"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap-multiselect\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect\\package.json"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Documents\\ХНУРЕ\\4 курс\\.NET курсова\\StudentPerformance\\StudentPerformanceApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StudentPerformanceApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StudentPerformanceApp.props",
+      "PackagePath": "build\\StudentPerformanceApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentPerformanceApp.props",
+      "PackagePath": "buildMultiTargeting\\StudentPerformanceApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StudentPerformanceApp.props",
+      "PackagePath": "buildTransitive\\StudentPerformanceApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

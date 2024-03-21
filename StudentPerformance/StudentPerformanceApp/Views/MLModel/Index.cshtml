@@ -1,0 +1,63 @@
+﻿@model MLModelViewModel
+
+<h1>Student Machine Learning Model</h1>
+
+<div class="container mt-5 text-center">
+    <div class="row mt-6">
+        <h4>
+            Current Evaluation of the Student Prediction Model
+        </h4>
+        <table class="table table-bordered text-center mlmodel-evaluation mt-4">
+            <thead class="thead-light">
+            <th>RSquared</th>
+            <th>RootMeanSquaredError</th>
+            <th>MeanSquaredError</th>
+            <th>MeanAbsoluteError</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><b>@String.Format("{0:F6}", @Model.CurrentMetrics.RSquared)</b></td>
+                    <td><b>@String.Format("{0:F6}", @Model.CurrentMetrics.RootMeanSquaredError)</b></td>
+                    <td><b>@String.Format("{0:F6}", @Model.CurrentMetrics.MeanSquaredError)</b></td>
+                    <td><b>@String.Format("{0:F6}", @Model.CurrentMetrics.MeanAbsoluteError)</b></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <button class="btn btn-primary btn-lg mt-5" id="retrain" onclick="retrainModel()">
+        <span style="font-size: x-large">Re-train</span>
+        <div class="spinner-border" style="display: none;" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </button>
+</div>
+
+<script>
+    function retrainModel() {
+        $("#retrain").addClass('disabled');
+        $(".spinner-border").show();
+        $.ajax({
+            url: '@Url.Action("RetrainModel", "MLModel")',
+            type: 'POST',
+            success: function (response) {
+                if (response.success) {
+                    $("#retrain").removeClass('disabled');
+                    $(".spinner-border").hide()
+                    alert(`The ML Model Has Been Re-trained`)
+                    window.location.href = '@Url.Action("Index", "MLModel")'
+                } else {
+                    alert('Error: ' + response.message);
+                    $("#retrain").removeClass('disabled');
+                    $(".spinner-border").hide()
+                }
+            },
+            error: function (e) {
+                alert('Error generating G3');
+                console.log(e)
+                $("#retrain").removeClass('disabled');
+                $(".spinner-border").hide()
+            }
+        });
+    }
+</script>

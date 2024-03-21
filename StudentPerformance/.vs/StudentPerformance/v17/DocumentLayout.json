@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\Documents\\\u0425\u041D\u0423\u0420\u0415\\4 \u043A\u0443\u0440\u0441\\.NET \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\student-peformance-ML\\StudentPerformance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE00D7-0331-4D54-9674-E2B36FD96C40}|StudentPerformanceApp\\StudentPerformanceApp.csproj|d:\\files\\documents\\\u0445\u043D\u0443\u0440\u0435\\4 \u043A\u0443\u0440\u0441\\.net \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\student-peformance-ml\\studentperformance\\studentperformanceapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5AE00D7-0331-4D54-9674-E2B36FD96C40}|StudentPerformanceApp\\StudentPerformanceApp.csproj|solutionrelative:studentperformanceapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Files\\Documents\\\u0425\u041D\u0423\u0420\u0415\\4 \u043A\u0443\u0440\u0441\\.NET \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\student-peformance-ML\\StudentPerformance\\StudentPerformanceApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentPerformanceApp\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Files\\Documents\\\u0425\u041D\u0423\u0420\u0415\\4 \u043A\u0443\u0440\u0441\\.NET \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\student-peformance-ML\\StudentPerformance\\StudentPerformanceApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "StudentPerformanceApp\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAOIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T10:44:01.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+﻿@model DashboardViewModel
+
+<h1>Dashboard</h1>
+
+<div class="container">
+
+    <div class="row mt-5">
+        <h3>General Information </h3>
+        <table class="table table-bordered text-center dashboard-general">
+            <thead class="thead-light">
+            <th>Total Students</th>
+            <th>Total Schools</th>
+            <th>Total Courses</th>
+            <th>Avg G1 grade</th>
+            <th>Avg G2 grade</th>
+            <th>Avg G3 grade</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><b>@Model.TotalStudents</b></td>
+                    <td><b>@Model.TotalSchools</b></td>
+                    <td><b>@Model.TotalCourses</b></td>
+                    <td><b>@String.Format("{0:f}", @Model.AverageG1)</b></td>
+                    <td><b>@String.Format("{0:f}", @Model.AverageG2)</b></td>
+                    <td><b>@String.Format("{0:f}", @Model.AverageG3)</b></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="row mt-2">
+        <h3>Grades Distribution</h3>
+    </div>
+
+    <div class="row mt-2 justify-content-center text-center">
+        <form id="filter_form">
+            <div class="form-group">
+                <span>
+                <label for="schools">Select Schools:</label>
+                <select id="school_select" multiple>
+                    @foreach (var school in Model.Schools)
+                    {
+                        <option value="@school.Id">@school.SchoolName</option>
+                    }
+                </select>
+                </span>
+                <span class="ml-4">
+                <label for="courses">Select Courses:</label>
+                <select id="course_select" multiple>
+                    @foreach (var course in Model.Courses)
+                    {
+                        <option value="@course.Id">@course.CourseName</option>
+                    }
+                </select>
+                </span>
+            </div>
+            <button class="btn btn-primary" type="button" onclick="applyFilters()">Apply Filters</button>
+        </form>
+    </div>
+
+    <div class="row mt-3">
+
+        <div class="col-md-4">
+            <canvas id="g1Chart" width="400" height="400"></canvas>
+        </div>
+        <div class="col-md-4">
+            <canvas id="g2Chart" width="400" height="400"></canvas>
+        </div>
+        <div class="col-md-4">
+            <canvas id="g3Chart" width="400" height="400"></canvas>
+        </div>
+    </div>
+
+
+
+</div>
+
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="~/bootstrap-multiselect/dist/js/bootstrap-multiselect.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#school_select').multiselect({
+                enableFiltering: true,
+                includeFilterClearBtn: false,
+                enableCaseInsensitiveFiltering: true,
+            });
+        });
+
+        $(document).ready(function () {
+            $('#course_select').multiselect({
+                enableFiltering: true,
+                includeFilterClearBtn: false,
+                enableCaseInsensitiveFiltering: true,
+            });
+        });
+    </script>
+
+    <script>
+        function applyFilters() {
+            var selectedSchools = $('#school_select').val();
+            var selectedCourses = $('#course_select').val();
+            $.ajax({
+                url: '@Url.Action("GetFilteredChartData", "Dashboard")',
+                type: 'POST',
+                data: {
+                    selectedSchools: selectedSchools,
+                    selectedCourses: selectedCourses
+                },
+                success: function (response) {
+                    updateCharts(response)
+                }
+            });
+        }
+
+        function updateCharts(data) {
+            console.log(data)
+            g1Chart.data.datasets[0].data = data.g1Data;
+            g2Chart.data.datasets[0].data = data.g2Data;
+            g3Chart.data.datasets[0].data = data.g3Data;
+            g1Chart.update();
+            g2Chart.update();
+            g3Chart.update();
+        }
+    </script>
+
+    <script>
+        // G1 Chart
+        var g1Ctx = document.getElementById('g1Chart').getContext('2d');
+        var g1Chart = new Chart(g1Ctx, {
+            type: 'bar',
+            data: {
+                labels: @Html.Raw(Json.Serialize(Model.GradesLabels)),
+                datasets: [{
+                    label: 'G1 Grades',
+                    data: @Html.Raw(Json.Serialize(Model.G1GradesDistribution)),
+                    backgroundColor: 'rgba(54, 162, 235, 0.6)',
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false,
+                    },
+                    title: {
+                        display: true,
+                        text: "G1 Grades Distribution",
+                        font: {
+                            size: 24
+                        }
+                    }
+                }
+            }
+        });
+
+        // G2 Chart
+        var g2Ctx = document.getElementById('g2Chart').getContext('2d');
+        var g2Chart = new Chart(g2Ctx, {
+            type: 'bar',
+            data: {
+                labels: @Html.Raw(Json.Serialize(Model.GradesLabels)),
+                datasets: [{
+                    label: 'G2 Grades',
+                    data: @Html.Raw(Json.Serialize(Model.G2GradesDistribution)),
+                    backgroundColor: 'rgba(255, 206, 86, 0.6)',
+                    borderColor: 'rgba(255, 206, 86, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false,
+                    },
+                    title: {
+                        display: true,
+                        text: "G2 Grades Distribution",
+                        font: {
+                            size: 24
+                        }
+                    }
+                }
+            }
+        });
+
+        // G3 Chart
+        var g3Ctx = document.getElementById('g3Chart').getContext('2d');
+        var g3Chart = new Chart(g3Ctx, {
+            type: 'bar',
+            data: {
+                labels: @Html.Raw(Json.Serialize(Model.GradesLabels)),
+                datasets: [{
+                    label: 'G3 Grades',
+                    data: @Html.Raw(Json.Serialize(Model.G3GradesDistribution)),
+                    backgroundColor: 'rgba(75, 192, 192, 0.6)',
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false,
+                    },
+                    title: {
+                        display: true,
+                        text: "G3 Grades Distribution",
+                        font: {
+                            size: 24
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+}

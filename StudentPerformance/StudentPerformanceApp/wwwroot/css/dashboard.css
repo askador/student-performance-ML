@@ -1,0 +1,10 @@
+﻿.dashboard-general td {
+    font-size: 2rem !important;
+}
+.multiselect-container .multiselect-filter > input.multiselect-search {
+    margin-left: -0.625rem !important;
+}
+
+body {
+    /*background: black !important;*/
+}

@@ -1,0 +1,318 @@
+﻿<div class="modal fade" id="addStudentModal" tabindex="-1" role="dialog" aria-labelledby="addStudentModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="addStudentModalLabel">Add New Student</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="name">Name:</label>
+                                <input type="text" class="form-control" id="name" name="name" maxlength="32" required>
+
+                            </div>
+                            <div class="form-group">
+                                <label for="schoolId">School:</label>
+                                <select class="form-control" id="schoolId" name="schoolId" required></select>
+                            </div>
+                            <div class="form-group">
+                                <label for="sex">Sex:</label>
+                                <select class="form-control" id="sex" name="sex">
+                                    <option value="F">F</option>
+                                    <option value="M">M</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="age">Age (0 - 20):</label>
+                                <input type="number" class="form-control" id="age" name="age" min="15" max="22" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="address">Address:</label>
+                                <select class="form-control" id="address" name="address">
+                                    <option value="U">Urban</option>
+                                    <option value="R">Rural</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="familySize">Family Size:</label>
+                                <select class="form-control" id="familySize" name="familySize">
+                                    <option value="LE3">Less or equal to 3</option>
+                                    <option value="GT3">Greater than 3</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="parentStatus">Parents cohabit:</label>
+                                <select class="form-control" id="parentStatus" name="parentStatus">
+                                    <option value="T">Living together</option>
+                                    <option value="A">Apart</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="motherEducation">Mother's edu:</label>
+                                <select class="form-control" id="motherEducation" name="motherEducation">
+                                    <option value="0">None</option>
+                                    <option value="1">Primary education (4th grade)</option>
+                                    <option value="2">5th to 9th grade</option>
+                                    <option value="3">Secondary education</option>
+                                    <option value="4">Higher education</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="fatherEducation">Father's edu:</label>
+                                <select class="form-control" id="fatherEducation" name="fatherEducation">
+                                    <option value="0">None</option>
+                                    <option value="1">Primary education (4th grade)</option>
+                                    <option value="2">5th to 9th grade</option>
+                                    <option value="3">Secondary education</option>
+                                    <option value="4">Higher education</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="motherJob">Mother's job:</label>
+                                <select class="form-control" id="motherJob" name="motherJob">
+                                    <option value="teacher">Teacher</option>
+                                    <option value="health">Healthcare related</option>
+                                    <option value="services">Civil services (e.g. administrative or police)</option>
+                                    <option value="at_home">At home</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="fatherJob">Father's job:</label>
+                                <select class="form-control" id="fatherJob" name="fatherJob">
+                                    <option value="teacher">Teacher</option>
+                                    <option value="health">Healthcare related</option>
+                                    <option value="services">Civil services (e.g. administrative or police)</option>
+                                    <option value="at_home">At home</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="schoolReason">Reason choose school:</label>
+                                <select class="form-control" id="schoolReason" name="schoolReason">
+                                    <option value="home">Close to home</option>
+                                    <option value="reputation">School reputation</option>
+                                    <option value="course">Course preference</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="guardian">Guardian:</label>
+                                <select class="form-control" id="guardian" name="guardian">
+                                    <option value="mother">Mother</option>
+                                    <option value="father">Father</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="travelTime">Time to School:</label>
+                                <select class="form-control" id="travelTime" name="travelTime">
+                                    <option value="1">&lt;15 min.</option>
+                                    <option value="2">15 to 30 min.</option>
+                                    <option value="3">30 min. to 1 hour</option>
+                                    <option value="4">&gt;1 hour</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="studyTime">Study time:</label>
+                                <select class="form-control" id="studyTime" name="studyTime">
+                                    <option value="1">&lt;2 hours</option>
+                                    <option value="2">2 to 5 hours</option>
+                                    <option value="3">5 to 10 hours</option>
+                                    <option value="4">&gt;10 hours</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="pastFailures">Failures:</label>
+                                <select class="form-control" id="pastFailures" name="pastFailures">
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="4">4</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="extraEducationalSupport">Support:</label>
+                                <select class="form-control" id="extraEducationalSupport" name="extraEducationalSupport">
+                                    <option value="yes">Yes</option>
+                                    <option value="no">No</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="familyEducationalSupport">Family Support:</label>
+                                <select class="form-control" id="familyEducationalSupport" name="familyEducationalSupport">
+                                    <option value="yes">Yes</option>
+                                    <option value="no">No</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="courseId">Course:</label>
+                                <select class="form-control" id="courseId" name="courseId" required></select>
+                            </div>
+                            <div class="form-group">
+                                <label for="paidClasses">Extra Classes:</label>
+                                <select class="form-control" id="paidClasses" name="paidClasses">
+                                    <option value="yes">Yes</option>
+                                    <option value="no">No</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="extraCurricularActivities">Extra Activities:</label>
+                                <select class="form-control" id="extraCurricularActivities" name="extraCurricularActivities">
+                                    <option value="yes">Yes</option>
+                                    <option value="no">No</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="attendedNursery">Attend Nursery:</label>
+                                <select class="form-control" id="attendedNursery" name="attendedNursery">
+                                    <option value="yes">Yes</option>
+                                    <option value="no">No</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="higherEducationAspirations">Wants Higher:</label>
+                                <select class="form-control" id="higherEducationAspirations" name="higherEducationAspirations">
+                                    <option value="yes">Yes</option>
+                                    <option value="no">No</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="internetAccess">Has Internet:</label>
+                                <select class="form-control" id="internetAccess" name="internetAccess">
+                                    <option value="yes">Yes</option>
+                                    <option value="no">No</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="romanticRelationship">Has Relationship:</label>
+                                <select class="form-control" id="romanticRelationship" name="romanticRelationship">
+                                    <option value="yes">Yes</option>
+                                    <option value="no">No</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="familyRelationshipQuality">Quality Fam Rel:</label>
+                                <select class="form-control" id="familyRelationshipQuality" name="familyRelationshipQuality">
+                                    <option value="1">Very Bad</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">Excellent</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="freeTime">Free Time:</label>
+                                <select class="form-control" id="freeTime" name="freeTime">
+                                    <option value="1">Very Low</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">Very High</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="goingOutWithFriends">Go Out Freq:</label>
+                                <select class="form-control" id="goingOutWithFriends" name="goingOutWithFriends">
+                                    <option value="1">Very Low</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">Very High</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="workdayAlcoholConsumption">Weekday Alcohol:</label>
+                                <select class="form-control" id="workdayAlcoholConsumption" name="workdayAlcoholConsumption">
+                                    <option value="1">Very Low</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">Very High</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="weekendAlcoholConsumption">Weekend Alcohol:</label>
+                                <select class="form-control" id="weekendAlcoholConsumption" name="weekendAlcoholConsumption">
+                                    <option value="1">Very Low</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">Very High</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="healthStatus">Health:</label>
+                                <select class="form-control" id="healthStatus" name="healthStatus">
+                                    <option value="1">Very Low</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">Very High</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="absences">Absences:</label>
+                                <input type="number" class="form-control" id="absences" name="absences" min="0" max="93" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="G1">First period grade:</label>
+                                <input type="number" class="form-control" id="G1" name="G1" min="0" max="20" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="G2">Second period grade:</label>
+                                <input type="number" class="form-control" id="G2" name="G2" min="0" max="20" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="G3">Third period grade:</label>
+                                <input type="number" class="form-control" id="G3" name="G3" min="0" max="20">
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-success" id="addStudentBtn">Add Student</button>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<script>
+
+    $(document).ready(function () {
+        $.ajax({
+            type: 'GET',
+            url: '@Url.Action("GetSchools", "Students")',
+            success: function (data) {
+                console.log(data)
+                $.each(data, function (i, school) {
+                    $('#schoolId').append($('<option>').val(school.id).text(school.schoolName));
+                });
+            }
+        });
+
+        $.ajax({
+            type: 'GET',
+            url: '@Url.Action("GetCourses", "Students")',
+            success: function (data) {
+                console.log(data)
+                $.each(data, function (i, course) {
+                    $('#courseId').append($('<option>').val(course.id).text(course.courseName));
+                });
+            }
+        });
+    });
+</script>
+

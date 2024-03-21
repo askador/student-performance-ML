@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "defaultProvider": "jsdelivr",
+  "libraries": [
+    {
+      "library": "bootstrap@4.6.2",
+      "destination": "wwwroot/bootstrap/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "bootstrap-multiselect@1.1.0",
+      "destination": "wwwroot/bootstrap-multiselect/"
+    }
+  ]
+}

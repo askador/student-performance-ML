@@ -1,0 +1,114 @@
+﻿@model StudentPerformanceApp.Data.Models.Student
+
+
+<div class="modal fade" id="detailsModal_@Model.Id" tabindex="-1" role="dialog" aria-labelledby="detailsModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="detailsModalLabel">@Model.Name</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p><b>School</b>: @Model.School.SchoolName</p>
+                        <p><b>Sex</b>: @Model.Sex</p>
+                        <p><b>Age</b>: @Model.Age</p>
+                        <p><b>Address</b>: @Model.Address</p>
+                        <p><b>Family Size</b>: @Model.FamilySize</p>
+                        <p><b>Parents cohabit</b>: @Model.ParentStatus</p>
+                        <p><b>Mother's edu</b>: @Model.MotherEducation</p>
+                        <p><b>Fathers' edu</b>: @Model.FatherEducation</p>
+                        <p><b>Mother's job</b>: @Model.MotherJob</p>
+                        <p><b>Father's job</b>: @Model.FatherJob</p>
+                        <p><b>Reason choose school?</b>: @Model.SchoolReason</p>
+                        <p><b>Guardian</b>: @Model.Guardian</p>
+                        <p><b>Travel Time</b>: @Model.TravelTime</p>
+                        <p><b>Study Time</b>: @Model.StudyTime</p>
+                        <p><b>Failures</b>: @Model.PastFailures</p>
+                        <p><b>Support</b>: @Model.ExtraEducationalSupport</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p><b>Family Support</b>: @Model.FamilyEducationalSupport</p>
+                        <p><b>Extra Classes</b>: @Model.PaidClasses</p>
+                        <p><b>Extra Activities</b>: @Model.ExtraCurricularActivities</p>
+                        <p><b>Attend Nursery</b>: @Model.AttendedNursery</p>
+                        <p><b>Wants Higher</b>: @Model.HigherEducationAspirations</p>
+                        <p><b>Has Internet</b>: @Model.InternetAccess</p>
+                        <p><b>In Relationship</b>: @Model.RomanticRelationship</p>
+                        <p><b>Quality Fam Rel</b>: @Model.FamilyRelationshipQuality</p>
+                        <p><b>Free Time</b>: @Model.FreeTime</p>
+                        <p><b>Go Out Freq</b>: @Model.GoingOutWithFriends</p>
+                        <p><b>Weekend Alcohol</b>: @Model.WorkdayAlcoholConsumption</p>
+                        <p><b>Weekday Alcohol</b>: @Model.WeekendAlcoholConsumption</p>
+                        <p><b>Health</b>: @Model.HealthStatus</p>
+                        <p><b>Absences</b>: @Model.Absences</p>
+                        <p><b>G1</b>: @Model.Grades.G1</p>
+                        <p><b>G2</b>: @Model.Grades.G2</p>
+                        <p><b>Actual G3</b>: @Model.Grades.G3</p>
+                    </div>
+                    <h4 class="ml-2 float-left">
+                        <b>Predicted G3: <span class="G3"></span></b>
+                    </h4>
+                </div>
+
+                <button class="btn btn-success" onclick="generateG3('@Model.Id')">Predict G3</button>
+            </div>
+            <div class="modal-footer justify-content-between">
+                <div>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+                <div>
+                    <button type="button" class="btn btn-danger mr-4" onclick="deleteStudent('@Model.Id')">Delete</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function deleteStudent(id) {
+        $.ajax({
+            url: '@Url.Action("Delete", "Students")',
+            type: 'DELETE',
+            contentType: "application/json",
+            data: JSON.stringify(id),
+            success: function (response) {
+                if (response) {
+                    alert(`Student has been deleted`)
+                    window.location.href = '@Url.Action("Index", "Students")'
+                } else {
+                    alert('Error: ' + response.message);
+                }
+            },
+            error: function (e) {
+                alert('Error deleteing a student');
+                console.log(e)
+            }
+        });
+    }
+
+    function generateG3(id) {
+        console.log(id)
+        $.ajax({
+            url: '@Url.Action("GenerateG3", "Students")',
+            type: 'POST',
+            contentType: "application/json",
+            data: JSON.stringify(id),
+            success: function (response) {
+                if (response.success) {
+                    document.querySelector(`#detailsModal_${response.id} > div > div > div.modal-body > div > h4 > b > span`).innerHTML = response.value
+                } else {
+                    alert('Error: ' + response.message);
+                }
+            },
+            error: function (e) {
+                alert('Error generating G3');
+                console.log(e)
+            }
+        });
+    }
+</script>
+
